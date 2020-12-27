@@ -1,4 +1,4 @@
-# 2020_12_26-WEB1
+# 2020_12_26~2020_12_27 - WEB1
 
 [배운점]
 - https://livere.com/ , https://web1-3rxchxuo8j.disqus.com/  댓글 기능
