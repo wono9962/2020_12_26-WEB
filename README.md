@@ -1,7 +1,9 @@
 # 2020_12_26-WEB
 
 [배운점]
-- www.tawk.to , https://airtable.com 사이트를 알게되었음
+- https://livere.com/ , https://web1-3rxchxuo8j.disqus.com/  댓글 기능
+- www.tawk.to 채팅 기능
+- https://airtable.com 
 - github에 내 파일을 올리는 방법을 알게 되었음
 - 갈수록 난이도는 올라가고 중요도는 떨어짐
 
